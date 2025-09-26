@@ -41,7 +41,7 @@ The application uses the following database configuration:
 1. Clone the repository:
 
         bash
-        git clone <repository-url>
+        git clone https://github.com/thetnaing-dh/EFCore_CRUD_Application
         cd EFCore_CRUD
 
 2. Update the connection string in AppDbContext.cs to match your SQL Server instance:
